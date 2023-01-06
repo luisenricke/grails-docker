@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  app:
+    image: grails-docker:latest
+    ports:
+      - "8080:8080"
+    networks:
+      - grails-docker-network
+networks:
+  grails-docker-network:
+    driver: bridge
