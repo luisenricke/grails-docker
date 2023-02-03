@@ -29,3 +29,9 @@ docker-compose up
 - [Dockerizing a Spring Boot Application :: Baeldung](https://www.baeldung.com/dockerizing-spring-boot-application)
 - [Deployment :: Grails Guide](https://docs.grails.org/latest/guide/deployment.html)
 - [Basic Repository of Docker :: GitHub](https://github.com/platzi/docker)
+
+
+## Working
+
+- https://zwbetz.com/why-is-my-gradle-build-in-docker-so-slow/
+- https://devpress.csdn.net/cloudnative/630554ebc67703293080f4fd.html
